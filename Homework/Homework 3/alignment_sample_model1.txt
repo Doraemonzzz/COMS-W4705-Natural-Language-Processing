@@ -1,0 +1,39 @@
+resumption of the session
+wiederaufnahme der sitzungsperiode
+[1, 2, 4]
+
+i declare resumed the session of the european parliament adjourned on thursday , 28 march 1996 .
+ich erkl&auml;re die am donnerstag , den 28. m&auml;rz 1996 unterbrochene sitzungsperiode des europ&auml;ischen parlaments f&uuml;r wiederaufgenommen .
+[1, 2, 4, 12, 12, 13, 4, 14, 15, 16, 2, 5, 10, 8, 9, 2, 3, 17]
+
+welcome
+begr&uuml;&szlig;ung
+[1]
+
+i bid you a warm welcome !
+herzlich willkommen !
+[5, 2, 7]
+
+approval of the minutes
+genehmigung des protokolls
+[1, 1, 1]
+
+the minutes of the sitting of thursday , 28 march 1996 have been distributed .
+das protokoll der sitzung vom donnerstag , den 28. m&auml;rz 1996 wurde verteilt .
+[2, 2, 3, 5, 10, 7, 8, 1, 9, 10, 11, 14, 14, 15]
+
+are there any comments ?
+gibt es einw&auml;nde ?
+[2, 2, 4, 5]
+
+points 16 and 17 now contradict one another whereas the voting showed otherwise .
+die punkte 16 und 17 widersprechen sich jetzt , obwohl es bei der abstimmung anders aussah .
+[10, 1, 2, 3, 4, 6, 9, 5, 14, 6, 6, 4, 10, 11, 6, 6, 14]
+
+i shall be passing on to you some comments which you could perhaps take up with regard to the voting .
+ich werde ihnen die entsprechenden anmerkungen aush&auml;ndigen , damit sie das eventuell bei der abstimmung &uuml;bernehmen k&ouml;nnen .
+[1, 2, 7, 19, 4, 9, 4, 10, 20, 7, 0, 4, 17, 19, 20, 4, 12, 21]
+
+i will have to look into that , mrs oomen-ruijten .
+das mu&szlig; ich erst einmal kl&auml;ren , frau oomen-ruijten .
+[7, 5, 1, 10, 5, 10, 8, 9, 10, 11]
