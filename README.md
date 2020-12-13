@@ -5,7 +5,7 @@
 
 课程网盘地址：
 
-链接：https://pan.baidu.com/s/1KijgO7yjL_MVCC9zKZ7Jdg 
-提取码：t1i3 
+链接：https://pan.baidu.com/s/1_RVFa99tIegPatTxWNHPFw 
+提取码：ucmm 
 
 笔记整理：https://doraemonzzz.com/tags/Michael-Collins-NLP/
